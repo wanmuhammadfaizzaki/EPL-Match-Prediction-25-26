@@ -1,0 +1,9 @@
+cat > requirements.txt << EOF
+pandas
+numpy
+scikit-learn
+matplotlib
+seaborn
+gradio
+jupyter
+EOF
